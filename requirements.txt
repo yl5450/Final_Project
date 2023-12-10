@@ -1,0 +1,11 @@
+pip install pathlib
+pip install urllib3
+pip install pandas
+pip install requests
+pip install csvkit
+pip install geoalchemy2
+pip install geopandas
+pip install matplotlib
+pip install shapely
+pip install sqlalchemy
+pip install numpy
